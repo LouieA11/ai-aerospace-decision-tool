@@ -164,3 +164,10 @@ for scenario_name, weights in scenarios.items():
 # =========================
 apps.to_csv("aerospace_ai_rankings.csv", index=False)
 print("\nResults saved to aerospace_ai_rankings.csv")
+
+Impact weight: 2.0
+Risk weight: 1.2
+Complexity weight: 0.8
+Feasibility weight: 1.5
+Cost weight: 0.5
+Data availability weight: 1.0
